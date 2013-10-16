@@ -1,1 +1,1 @@
-## Customized octopress for my specific needs
+## Customized octopress
